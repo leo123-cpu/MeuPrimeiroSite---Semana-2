@@ -4,7 +4,7 @@ html, body {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 #imagem_fundo {
-    background: url(imagens/fundo1.jpg);
+    background: url(fundo1.jpg);
     width: 100%;
     height: 100%;
     text-align: center;
